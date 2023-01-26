@@ -1,0 +1,16 @@
+C:\Users\nicol\Downloads\nuevooo calculadora\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.exe
+C:\Users\nicol\Downloads\nuevooo calculadora\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.deps.json
+C:\Users\nicol\Downloads\nuevooo calculadora\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.runtimeconfig.json
+C:\Users\nicol\Downloads\nuevooo calculadora\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.runtimeconfig.dev.json
+C:\Users\nicol\Downloads\nuevooo calculadora\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.dll
+C:\Users\nicol\Downloads\nuevooo calculadora\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.pdb
+C:\Users\nicol\Downloads\nuevooo calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.csproj.AssemblyReference.cache
+C:\Users\nicol\Downloads\nuevooo calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.Form1.resources
+C:\Users\nicol\Downloads\nuevooo calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.csproj.GenerateResource.cache
+C:\Users\nicol\Downloads\nuevooo calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\Downloads\nuevooo calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.AssemblyInfoInputs.cache
+C:\Users\nicol\Downloads\nuevooo calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.AssemblyInfo.cs
+C:\Users\nicol\Downloads\nuevooo calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Downloads\nuevooo calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.dll
+C:\Users\nicol\Downloads\nuevooo calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.pdb
+C:\Users\nicol\Downloads\nuevooo calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.genruntimeconfig.cache
