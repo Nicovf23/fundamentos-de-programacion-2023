@@ -1,0 +1,11 @@
+C:\Users\nicol\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Ejercicio 2.2\Ejercicio 2.2\bin\Debug\Ejercicio 2.2.exe.config
+C:\Users\nicol\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Ejercicio 2.2\Ejercicio 2.2\bin\Debug\Ejercicio 2.2.exe
+C:\Users\nicol\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Ejercicio 2.2\Ejercicio 2.2\bin\Debug\Ejercicio 2.2.pdb
+C:\Users\nicol\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Ejercicio 2.2\Ejercicio 2.2\obj\Debug\Ejercicio 2.2.csproj.AssemblyReference.cache
+C:\Users\nicol\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Ejercicio 2.2\Ejercicio 2.2\obj\Debug\Ejercicio 2.2.csproj.SuggestedBindingRedirects.cache
+C:\Users\nicol\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Ejercicio 2.2\Ejercicio 2.2\obj\Debug\Ejercicio_2._2.Form1.resources
+C:\Users\nicol\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Ejercicio 2.2\Ejercicio 2.2\obj\Debug\Ejercicio_2._2.Properties.Resources.resources
+C:\Users\nicol\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Ejercicio 2.2\Ejercicio 2.2\obj\Debug\Ejercicio 2.2.csproj.GenerateResource.cache
+C:\Users\nicol\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Ejercicio 2.2\Ejercicio 2.2\obj\Debug\Ejercicio 2.2.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Ejercicio 2.2\Ejercicio 2.2\obj\Debug\Ejercicio 2.2.exe
+C:\Users\nicol\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Ejercicio 2.2\Ejercicio 2.2\obj\Debug\Ejercicio 2.2.pdb
