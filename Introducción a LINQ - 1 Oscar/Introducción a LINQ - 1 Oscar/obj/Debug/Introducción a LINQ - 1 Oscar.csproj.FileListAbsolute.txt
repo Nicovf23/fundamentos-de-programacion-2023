@@ -1,0 +1,10 @@
+C:\Users\nicol\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Introducción a LINQ - 1 Oscar\Introducción a LINQ - 1 Oscar\bin\Debug\Introducción a LINQ - 1 Oscar.exe.config
+C:\Users\nicol\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Introducción a LINQ - 1 Oscar\Introducción a LINQ - 1 Oscar\bin\Debug\Introducción a LINQ - 1 Oscar.exe
+C:\Users\nicol\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Introducción a LINQ - 1 Oscar\Introducción a LINQ - 1 Oscar\bin\Debug\Introducción a LINQ - 1 Oscar.pdb
+C:\Users\nicol\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Introducción a LINQ - 1 Oscar\Introducción a LINQ - 1 Oscar\obj\Debug\Introducción a LINQ - 1 Oscar.csproj.AssemblyReference.cache
+C:\Users\nicol\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Introducción a LINQ - 1 Oscar\Introducción a LINQ - 1 Oscar\obj\Debug\Introducción a LINQ - 1 Oscar.csproj.SuggestedBindingRedirects.cache
+C:\Users\nicol\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Introducción a LINQ - 1 Oscar\Introducción a LINQ - 1 Oscar\obj\Debug\Introducción_a_LINQ___1_Oscar.Properties.Resources.resources
+C:\Users\nicol\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Introducción a LINQ - 1 Oscar\Introducción a LINQ - 1 Oscar\obj\Debug\Introducción a LINQ - 1 Oscar.csproj.GenerateResource.cache
+C:\Users\nicol\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Introducción a LINQ - 1 Oscar\Introducción a LINQ - 1 Oscar\obj\Debug\Introducción a LINQ - 1 Oscar.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Introducción a LINQ - 1 Oscar\Introducción a LINQ - 1 Oscar\obj\Debug\Introducción a LINQ - 1 Oscar.exe
+C:\Users\nicol\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Introducción a LINQ - 1 Oscar\Introducción a LINQ - 1 Oscar\obj\Debug\Introducción a LINQ - 1 Oscar.pdb
