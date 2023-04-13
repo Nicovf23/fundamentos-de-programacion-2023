@@ -1,0 +1,5 @@
+C:\Users\nicol\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Modos diferido e inmediato - 2\Modos diferido e inmediato - 2\obj\Debug\Modos diferido e inmediato - 2.csproj.AssemblyReference.cache
+C:\Users\nicol\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Modos diferido e inmediato - 2\Modos diferido e inmediato - 2\obj\Debug\Modos diferido e inmediato - 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\nicol\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Modos diferido e inmediato - 2\Modos diferido e inmediato - 2\obj\Debug\Modos_diferido_e_inmediato___2.Properties.Resources.resources
+C:\Users\nicol\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Modos diferido e inmediato - 2\Modos diferido e inmediato - 2\obj\Debug\Modos diferido e inmediato - 2.csproj.GenerateResource.cache
+C:\Users\nicol\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Modos diferido e inmediato - 2\Modos diferido e inmediato - 2\obj\Debug\Modos diferido e inmediato - 2.csproj.CoreCompileInputs.cache
