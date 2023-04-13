@@ -1,0 +1,13 @@
+C:\Users\nicol\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Ejercicio de clase 2.3\Ejercicio de clase 2.3\bin\Debug\Ejercicio de clase 2.3.exe.config
+C:\Users\nicol\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Ejercicio de clase 2.3\Ejercicio de clase 2.3\bin\Debug\Ejercicio de clase 2.3.exe
+C:\Users\nicol\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Ejercicio de clase 2.3\Ejercicio de clase 2.3\bin\Debug\Ejercicio de clase 2.3.pdb
+C:\Users\nicol\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Ejercicio de clase 2.3\Ejercicio de clase 2.3\bin\Debug\LiteDB.dll
+C:\Users\nicol\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Ejercicio de clase 2.3\Ejercicio de clase 2.3\bin\Debug\LiteDB.xml
+C:\Users\nicol\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Ejercicio de clase 2.3\Ejercicio de clase 2.3\obj\Debug\Ejercicio de clase 2.3.csproj.AssemblyReference.cache
+C:\Users\nicol\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Ejercicio de clase 2.3\Ejercicio de clase 2.3\obj\Debug\Ejercicio de clase 2.3.csproj.SuggestedBindingRedirects.cache
+C:\Users\nicol\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Ejercicio de clase 2.3\Ejercicio de clase 2.3\obj\Debug\Ejercicio_de_clase_2._3.Properties.Resources.resources
+C:\Users\nicol\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Ejercicio de clase 2.3\Ejercicio de clase 2.3\obj\Debug\Ejercicio de clase 2.3.csproj.GenerateResource.cache
+C:\Users\nicol\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Ejercicio de clase 2.3\Ejercicio de clase 2.3\obj\Debug\Ejercicio de clase 2.3.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Ejercicio de clase 2.3\Ejercicio de clase 2.3\obj\Debug\Ejercicio de clase 2.3.csproj.CopyComplete
+C:\Users\nicol\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Ejercicio de clase 2.3\Ejercicio de clase 2.3\obj\Debug\Ejercicio de clase 2.3.exe
+C:\Users\nicol\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Ejercicio de clase 2.3\Ejercicio de clase 2.3\obj\Debug\Ejercicio de clase 2.3.pdb
